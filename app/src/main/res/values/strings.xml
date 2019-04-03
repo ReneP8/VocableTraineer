@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vokabeltraineer</string>
+    <string name="vokabelEingeben">Bitte gib eine neue Vokabel ein und klicke anschließend auf Speichern.</string>
+    <string name="Speichern">Speichern</string>
+    <string name="vokabelEingabeHint">Vokabel</string>
+    <string name="übersetzungEingabeHint">Übersetzung</string>
+    <string name="BtnNewVocableAct">Vokabel Hinzufügen</string>
+    <string name="btnShowVocables">Vokabeln Anzeigen</string>
+</resources>
